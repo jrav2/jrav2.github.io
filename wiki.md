@@ -1,5 +1,5 @@
-# Johann Ravindranathan
- ![Obligatory Image](https://imgflip.com/memetemplate/174001398/Confused-Tom) 
+# **Johann Ravindranathan**
+ ![Obligatory Image](https://imgflip.com/i/a90l4c) 
 
  ## Introduction
  This is a monkey trying to follow some instructions for a Lab in Geog 328. 
@@ -8,10 +8,14 @@
  ## Qualifications
  * Monkey is present and accounted for
  * Monkey has been learning a little bit about Markdown and Python in recent quarter(s)
- * Monkey see, Monkey (might) do
+ * Monkey see, Monkey (*might*) do
 
  ### Exact Experiences
- idk check the previous courses
+ ~~idk check your previous courses~~
+ + CSE 123, 373, 416
+ + INFO 201
+ + Q SCI 381
+ + GEOG 360
 
  ### Other notes
  If this works, then I'm kinda having fun with this
