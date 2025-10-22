@@ -1,4 +1,4 @@
- # Johann Ravindranathan
+ # **Johann Ravindranathan**
 
  ![Obligatory Image](https://imgflip.com/i/a90l4c) 
 
